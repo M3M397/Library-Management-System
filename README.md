@@ -59,6 +59,13 @@ Library-Management-System-Python/
 
 ---
 
+## Interface Preview
+
+![Login Screen](screenshots/login-screen.png)
+![Dashboard](screenshots/dashboard.png)
+
+---
+
 ## Installation & Usage
 
 1. Clone the repository:
