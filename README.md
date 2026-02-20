@@ -41,15 +41,13 @@ The project focuses on:
 ## Project Structure
 
 ```
-Library-Management-System-Python/
+LMS/
 │
 ├── main.py
 ├── lmsPage.py
 ├── database.py
 ├── books.py
 ├── background.jpg
-├── .gitignore
-└── README.md
 ```
 
 - `main.py` → Entry point and login validation
