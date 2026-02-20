@@ -101,4 +101,3 @@ It reflects my growing interest in building structured, data-driven systems.
 ## Developer
 
 Muhammad Bazil  
-Data Science Student
